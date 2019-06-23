@@ -39,7 +39,7 @@
 # Демо
 Приложение размещено на [Github Pages](https://pages.github.com/) с помощью [vue-gh-pages](https://github.com/KieferSivitz/vue-gh-pages)
 
-[Ссылка на демо](https://pi0neer.github.io/adhackio-test/)
+[Ссылка на демо](https://pi0neer.github.io/solvo-test/)
 
 ## Использованные библиотеки/фреймворки.
 
