@@ -9,48 +9,48 @@
     }
   },
   {
-    "name": "Russia",
-    "population": 146781095,
-    "capital": "Moscow",
+    "name": "USA",
+    "population": 308745538,
+    "capital": "Washington",
     "location": {
-      "latitude": 55.75222,
-      "longitude": 37.61556
+      "latitude": 38.89511,
+      "longitude": -77.03637
     }
   },
   {
-    "name": "Russia",
-    "population": 146781095,
-    "capital": "Moscow",
+    "name": "Ukraine",
+    "population": 42414900,
+    "capital": "Kiev",
     "location": {
-      "latitude": 55.75222,
-      "longitude": 37.61556
+      "latitude": 50.45466,
+      "longitude": 30.5238
     }
   },
   {
-    "name": "Russia",
-    "population": 146781095,
-    "capital": "Moscow",
+    "name": "United Kingdom",
+    "population": 63200000,
+    "capital": "London",
     "location": {
-      "latitude": 55.75222,
-      "longitude": 37.61556
+      "latitude": 51.50853,
+      "longitude": -0.12574
     }
   },
   {
-    "name": "Russia",
-    "population": 146781095,
-    "capital": "Moscow",
+    "name": "Australia",
+    "population": 25289708,
+    "capital": "Canberra",
     "location": {
-      "latitude": 55.75222,
-      "longitude": 37.61556
+      "latitude": -35.28346,
+      "longitude": 149.12807
     }
   },
   {
-    "name": "Russia",
+    "name": "China",
     "population": 146781095,
-    "capital": "Moscow",
+    "capital": "Beijing",
     "location": {
-      "latitude": 55.75222,
-      "longitude": 37.61556
+      "latitude": 39.9075,
+      "longitude": 116.39723
     }
   }
 ]
