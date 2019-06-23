@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Russia",
+    "population": 146781095,
+    "capital": "Moscow",
+    "location": {
+      "latitude": 55.75222,
+      "longitude": 37.61556
+    }
+  },
+  {
+    "name": "USA",
+    "population": 308745538,
+    "capital": "Washington",
+    "location": {
+      "latitude": 38.89511,
+      "longitude": -77.03637
+    }
+  },
+  {
+    "name": "Ukraine",
+    "population": 42414900,
+    "capital": "Kiev",
+    "location": {
+      "latitude": 50.45466,
+      "longitude": 30.5238
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "population": 63200000,
+    "capital": "London",
+    "location": {
+      "latitude": 51.50853,
+      "longitude": -0.12574
+    }
+  },
+  {
+    "name": "Australia",
+    "population": 25289708,
+    "capital": "Canberra",
+    "location": {
+      "latitude": -35.28346,
+      "longitude": 149.12807
+    }
+  },
+  {
+    "name": "China",
+    "population": 146781095,
+    "capital": "Beijing",
+    "location": {
+      "latitude": 39.9075,
+      "longitude": 116.39723
+    }
+  }
+]
