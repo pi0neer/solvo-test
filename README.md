@@ -44,3 +44,5 @@
 ## Использованные библиотеки/фреймворки.
 
  - [Vuetify](https://vuetifyjs.com) - Хороший material design фреймворк, большой набор UI-компонентов, удобная grid-система, много вспомогательных классов.
+ - [Lodash](https://lodash.com/) - Хорошая utility бибилиотка.
+ - [Axios](https://github.com/axios/axios) - Библиотека для http-запросов, основанная на промисах. 
